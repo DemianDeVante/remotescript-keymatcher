@@ -16,6 +16,6 @@ Enter drawing mode (B), drag and drop a sample that has the key written anywhere
 
 ![Settings](https://github.com/user-attachments/assets/fa785c8c-6c3b-419b-9846-37efd4b77980)
 
-1. Place "Launchkey_Mini_MK4_DD" and "Launchkey_MK4_DD" inside your MIDI Remote Scripts folder (User Library/Remote Scripts)
+1. Place "Launchkey_Mini_MK4_DD" and "KeyMatcher" inside your MIDI Remote Scripts folder (User Library/Remote Scripts or if that doesn't work then inside /drive_c/ProgramData/Ableton/Live 12 Suite/Resources/MIDI Remote Scripts)
 2. Select the Remote Script as a Control Surface in Ableton Live (don't need to assign to a MIDI controller)
 3. Done
